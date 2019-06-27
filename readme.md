@@ -1,5 +1,6 @@
 # Lumen PHP Framework
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fcf97d915e824a20a1ed229c808d7b12)](https://app.codacy.com/app/romanopablo/excercise-api?utm_source=github.com&utm_medium=referral&utm_content=romanopablo/excercise-api&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
 [![Total Downloads](https://poser.pugx.org/laravel/lumen-framework/d/total.svg)](https://packagist.org/packages/laravel/lumen-framework)
 [![Latest Stable Version](https://poser.pugx.org/laravel/lumen-framework/v/stable.svg)](https://packagist.org/packages/laravel/lumen-framework)
