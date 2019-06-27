@@ -15,6 +15,4 @@ $router->get('/', function () use ($router) {
     return $router->app->version();
 });
 
-$router->get('/test-endpoint', function () use ($router) {
-    return response()->json(['Exito Perro!'], 200);
-});
+$router->get('/test-endpoint', 'ExampleController@test');
